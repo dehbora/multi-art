@@ -1,0 +1,776 @@
+[
+ {
+  "file": "P01_lv1.png",
+  "speciesId": "P01",
+  "name": "쥐방울덩굴",
+  "slot": "lv1",
+  "level": 1,
+  "desc": "씨앗(열매 속 날개 달린 씨앗)",
+  "sourcePage": 16
+ },
+ {
+  "file": "P01_lv7.png",
+  "speciesId": "P01",
+  "name": "쥐방울덩굴",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "익은 열매(거꾸로 된 낙하산)",
+  "sourcePage": 16
+ },
+ {
+  "file": "P01_lv8.png",
+  "speciesId": "P01",
+  "name": "쥐방울덩굴",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 16
+ },
+ {
+  "file": "P02_lv8.png",
+  "speciesId": "P02",
+  "name": "물봉선",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 17
+ },
+ {
+  "file": "P02_extra_yellow.png",
+  "speciesId": "P02",
+  "name": "물봉선",
+  "slot": "extra_yellow",
+  "level": null,
+  "desc": "비교: 노랑물봉선",
+  "sourcePage": 17
+ },
+ {
+  "file": "P02_extra_white.png",
+  "speciesId": "P02",
+  "name": "물봉선",
+  "slot": "extra_white",
+  "level": null,
+  "desc": "비교: 흰물봉선",
+  "sourcePage": 17
+ },
+ {
+  "file": "P03_lv6.png",
+  "speciesId": "P03",
+  "name": "사마귀풀",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "꽃",
+  "sourcePage": 18
+ },
+ {
+  "file": "P03_lv7.png",
+  "speciesId": "P03",
+  "name": "사마귀풀",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "열매(총알 모양)",
+  "sourcePage": 18
+ },
+ {
+  "file": "P03_lv8.png",
+  "speciesId": "P03",
+  "name": "사마귀풀",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 18
+ },
+ {
+  "file": "P04_lv1.png",
+  "speciesId": "P04",
+  "name": "개똥쑥",
+  "slot": "lv1",
+  "level": 1,
+  "desc": "씨앗",
+  "sourcePage": 19
+ },
+ {
+  "file": "P04_lv8.png",
+  "speciesId": "P04",
+  "name": "개똥쑥",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 19
+ },
+ {
+  "file": "P05_lv4.png",
+  "speciesId": "P05",
+  "name": "말똥비름",
+  "slot": "lv4",
+  "level": 4,
+  "desc": "살눈 달린 줄기",
+  "sourcePage": 20
+ },
+ {
+  "file": "P05_lv6.png",
+  "speciesId": "P05",
+  "name": "말똥비름",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "노란 별 모양 꽃",
+  "sourcePage": 20
+ },
+ {
+  "file": "P05_lv8.png",
+  "speciesId": "P05",
+  "name": "말똥비름",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 20
+ },
+ {
+  "file": "P06_lv6.png",
+  "speciesId": "P06",
+  "name": "뚜껑덩굴",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "수꽃",
+  "sourcePage": 21
+ },
+ {
+  "file": "P06_lv7.png",
+  "speciesId": "P06",
+  "name": "뚜껑덩굴",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "열매(뚜껑 달린 도토리 모양)",
+  "sourcePage": 21
+ },
+ {
+  "file": "P06_lv8.png",
+  "speciesId": "P06",
+  "name": "뚜껑덩굴",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 21
+ },
+ {
+  "file": "P06_extra_female.png",
+  "speciesId": "P06",
+  "name": "뚜껑덩굴",
+  "slot": "extra_female",
+  "level": null,
+  "desc": "암꽃",
+  "sourcePage": 21
+ },
+ {
+  "file": "P06_extra_open_fruit.png",
+  "speciesId": "P06",
+  "name": "뚜껑덩굴",
+  "slot": "extra_open_fruit",
+  "level": null,
+  "desc": "뚜껑 열린 열매와 씨앗",
+  "sourcePage": 21
+ },
+ {
+  "file": "P07_lv6.png",
+  "speciesId": "P07",
+  "name": "산토끼꽃",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "공 모양 꽃",
+  "sourcePage": 22
+ },
+ {
+  "file": "P07_lv7.png",
+  "speciesId": "P07",
+  "name": "산토끼꽃",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "열매",
+  "sourcePage": 22
+ },
+ {
+  "file": "P07_lv8.png",
+  "speciesId": "P07",
+  "name": "산토끼꽃",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 22
+ },
+ {
+  "file": "P07_extra_scabiosa.png",
+  "speciesId": "P07",
+  "name": "산토끼꽃",
+  "slot": "extra_scabiosa",
+  "level": null,
+  "desc": "비교: 솔체꽃",
+  "sourcePage": 22
+ },
+ {
+  "file": "P08_lv4.png",
+  "speciesId": "P08",
+  "name": "개지치",
+  "slot": "lv4",
+  "level": 4,
+  "desc": "털 많은 잎과 줄기",
+  "sourcePage": 23
+ },
+ {
+  "file": "P08_lv7.png",
+  "speciesId": "P08",
+  "name": "개지치",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "돌기 있는 열매",
+  "sourcePage": 23
+ },
+ {
+  "file": "P08_lv8.png",
+  "speciesId": "P08",
+  "name": "개지치",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 23
+ },
+ {
+  "file": "P09_lv4.png",
+  "speciesId": "P09",
+  "name": "익모초",
+  "slot": "lv4",
+  "level": 4,
+  "desc": "줄기잎",
+  "sourcePage": 24
+ },
+ {
+  "file": "P09_lv8.png",
+  "speciesId": "P09",
+  "name": "익모초",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 24
+ },
+ {
+  "file": "P09_extra_root_leaf.png",
+  "speciesId": "P09",
+  "name": "익모초",
+  "slot": "extra_root_leaf",
+  "level": null,
+  "desc": "뿌리잎",
+  "sourcePage": 24
+ },
+ {
+  "file": "P10_lv4.png",
+  "speciesId": "P10",
+  "name": "비수리",
+  "slot": "lv4",
+  "level": 4,
+  "desc": "풍성하게 자란 포기",
+  "sourcePage": 25
+ },
+ {
+  "file": "P10_lv6.png",
+  "speciesId": "P10",
+  "name": "비수리",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "꽃(흰 바탕 자주색 선)",
+  "sourcePage": 25
+ },
+ {
+  "file": "P10_lv7.png",
+  "speciesId": "P10",
+  "name": "비수리",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "열매",
+  "sourcePage": 25
+ },
+ {
+  "file": "P10_lv8.png",
+  "speciesId": "P10",
+  "name": "비수리",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 25
+ },
+ {
+  "file": "P11_lv6.png",
+  "speciesId": "P11",
+  "name": "여뀌바늘",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "노란 꽃",
+  "sourcePage": 26
+ },
+ {
+  "file": "P11_lv8.png",
+  "speciesId": "P11",
+  "name": "여뀌바늘",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 26
+ },
+ {
+  "file": "P12_lv6.png",
+  "speciesId": "P12",
+  "name": "콩제비꽃",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "꽃",
+  "sourcePage": 27
+ },
+ {
+  "file": "P12_lv7.png",
+  "speciesId": "P12",
+  "name": "콩제비꽃",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "세 갈래 열매",
+  "sourcePage": 27
+ },
+ {
+  "file": "P12_lv8.png",
+  "speciesId": "P12",
+  "name": "콩제비꽃",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 27
+ },
+ {
+  "file": "P13_lv6.png",
+  "speciesId": "P13",
+  "name": "마름",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "흰 꽃",
+  "sourcePage": 28
+ },
+ {
+  "file": "P13_lv7.png",
+  "speciesId": "P13",
+  "name": "마름",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "가시 2개 열매(물밤)",
+  "sourcePage": 28
+ },
+ {
+  "file": "P13_lv8.png",
+  "speciesId": "P13",
+  "name": "마름",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 28
+ },
+ {
+  "file": "A01_lv6.png",
+  "speciesId": "A01",
+  "name": "왼돌이물달팽이",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "뚜껑 없는 각구 관찰",
+  "sourcePage": 32
+ },
+ {
+  "file": "A01_lv7.png",
+  "speciesId": "A01",
+  "name": "왼돌이물달팽이",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "돌에 붙인 알집",
+  "sourcePage": 32
+ },
+ {
+  "file": "A01_lv8.png",
+  "speciesId": "A01",
+  "name": "왼돌이물달팽이",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 32
+ },
+ {
+  "file": "A01_extra_melania.png",
+  "speciesId": "A01",
+  "name": "왼돌이물달팽이",
+  "slot": "extra_melania",
+  "level": null,
+  "desc": "비교: 다슬기(뚜껑 있음)",
+  "sourcePage": 32
+ },
+ {
+  "file": "A01_extra_radix.png",
+  "speciesId": "A01",
+  "name": "왼돌이물달팽이",
+  "slot": "extra_radix",
+  "level": null,
+  "desc": "비교: 물달팽이(오른쪽 감김)",
+  "sourcePage": 32
+ },
+ {
+  "file": "A02_lv6.png",
+  "speciesId": "A02",
+  "name": "동양하루살이",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "배 등면 줄무늬",
+  "sourcePage": 33
+ },
+ {
+  "file": "A02_lv7.png",
+  "speciesId": "A02",
+  "name": "동양하루살이",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "성충",
+  "sourcePage": 33
+ },
+ {
+  "file": "A02_lv8.png",
+  "speciesId": "A02",
+  "name": "동양하루살이",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 33
+ },
+ {
+  "file": "A02_extra_sakhalin.png",
+  "speciesId": "A02",
+  "name": "동양하루살이",
+  "slot": "extra_sakhalin",
+  "level": null,
+  "desc": "비교: 사할린하루살이 줄무늬",
+  "sourcePage": 33
+ },
+ {
+  "file": "A02_extra_swarm.png",
+  "speciesId": "A02",
+  "name": "동양하루살이",
+  "slot": "extra_swarm",
+  "level": null,
+  "desc": "도심 대발생 장면",
+  "sourcePage": 33
+ },
+ {
+  "file": "A03_lv6.png",
+  "speciesId": "A03",
+  "name": "뿔하루살이",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "머리 뿔 돌기",
+  "sourcePage": 34
+ },
+ {
+  "file": "A03_lv7.png",
+  "speciesId": "A03",
+  "name": "뿔하루살이",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "성충",
+  "sourcePage": 34
+ },
+ {
+  "file": "A03_lv8.png",
+  "speciesId": "A03",
+  "name": "뿔하루살이",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 34
+ },
+ {
+  "file": "A03_extra_foreleg.png",
+  "speciesId": "A03",
+  "name": "뿔하루살이",
+  "slot": "extra_foreleg",
+  "level": null,
+  "desc": "앞다리 돌기",
+  "sourcePage": 34
+ },
+ {
+  "file": "A04_lv6.png",
+  "speciesId": "A04",
+  "name": "네점하루살이",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "머리 흰 점 4개",
+  "sourcePage": 35
+ },
+ {
+  "file": "A04_lv8.png",
+  "speciesId": "A04",
+  "name": "네점하루살이",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 35
+ },
+ {
+  "file": "A04_extra_twospot.png",
+  "speciesId": "A04",
+  "name": "네점하루살이",
+  "slot": "extra_twospot",
+  "level": null,
+  "desc": "비교: 두점하루살이 머리",
+  "sourcePage": 35
+ },
+ {
+  "file": "A04_extra_gills.png",
+  "speciesId": "A04",
+  "name": "네점하루살이",
+  "slot": "extra_gills",
+  "level": null,
+  "desc": "실·나뭇잎 모양 아가미",
+  "sourcePage": 35
+ },
+ {
+  "file": "A05_lv6.png",
+  "speciesId": "A05",
+  "name": "강하루살이",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "큰턱돌출기",
+  "sourcePage": 36
+ },
+ {
+  "file": "A05_lv8.png",
+  "speciesId": "A05",
+  "name": "강하루살이",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 36
+ },
+ {
+  "file": "A05_extra_gills.png",
+  "speciesId": "A05",
+  "name": "강하루살이",
+  "slot": "extra_gills",
+  "level": null,
+  "desc": "깃털 모양 아가미",
+  "sourcePage": 36
+ },
+ {
+  "file": "A06_lv6.png",
+  "speciesId": "A06",
+  "name": "한국강도래",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "머리 M자 무늬와 홑눈",
+  "sourcePage": 37
+ },
+ {
+  "file": "A06_lv8.png",
+  "speciesId": "A06",
+  "name": "한국강도래",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 37
+ },
+ {
+  "file": "A06_extra_gills.png",
+  "speciesId": "A06",
+  "name": "한국강도래",
+  "slot": "extra_gills",
+  "level": null,
+  "desc": "가슴 아가미 다발",
+  "sourcePage": 37
+ },
+ {
+  "file": "A07_lv6.png",
+  "speciesId": "A07",
+  "name": "어리장수잠자리",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "넓은 원형 더듬이",
+  "sourcePage": 38
+ },
+ {
+  "file": "A07_lv8.png",
+  "speciesId": "A07",
+  "name": "어리장수잠자리",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 38
+ },
+ {
+  "file": "A07_extra_wingpads.png",
+  "speciesId": "A07",
+  "name": "어리장수잠자리",
+  "slot": "extra_wingpads",
+  "level": null,
+  "desc": "유충 날개(1자형)",
+  "sourcePage": 38
+ },
+ {
+  "file": "A08_lv6.png",
+  "speciesId": "A08",
+  "name": "넓은물삿갓벌레",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "배면 아가미 6쌍",
+  "sourcePage": 39
+ },
+ {
+  "file": "A08_lv8.png",
+  "speciesId": "A08",
+  "name": "넓은물삿갓벌레",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림(등면)",
+  "sourcePage": 39
+ },
+ {
+  "file": "A08_extra_gills.png",
+  "speciesId": "A08",
+  "name": "넓은물삿갓벌레",
+  "slot": "extra_gills",
+  "level": null,
+  "desc": "갈라진 실 모양 아가미",
+  "sourcePage": 39
+ },
+ {
+  "file": "A09_lv6.png",
+  "speciesId": "A09",
+  "name": "둥근물삿갓벌레",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "배면 아가미 4쌍",
+  "sourcePage": 40
+ },
+ {
+  "file": "A09_lv8.png",
+  "speciesId": "A09",
+  "name": "둥근물삿갓벌레",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림(등면)",
+  "sourcePage": 40
+ },
+ {
+  "file": "A10_lv4.png",
+  "speciesId": "A10",
+  "name": "깔따구류",
+  "slot": "lv4",
+  "level": 4,
+  "desc": "붉은 유충",
+  "sourcePage": 41
+ },
+ {
+  "file": "A10_lv6.png",
+  "speciesId": "A10",
+  "name": "깔따구류",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "가슴 헛발",
+  "sourcePage": 41
+ },
+ {
+  "file": "A10_lv7.png",
+  "speciesId": "A10",
+  "name": "깔따구류",
+  "slot": "lv7",
+  "level": 7,
+  "desc": "모기 닮은 성충",
+  "sourcePage": 41
+ },
+ {
+  "file": "A10_lv8.png",
+  "speciesId": "A10",
+  "name": "깔따구류",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 41
+ },
+ {
+  "file": "A11_lv6.png",
+  "speciesId": "A11",
+  "name": "줄날도래",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "머리 밝은 무늬 5개",
+  "sourcePage": 42
+ },
+ {
+  "file": "A11_lv8.png",
+  "speciesId": "A11",
+  "name": "줄날도래",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 42
+ },
+ {
+  "file": "A11_extra_whitespot.png",
+  "speciesId": "A11",
+  "name": "줄날도래",
+  "slot": "extra_whitespot",
+  "level": null,
+  "desc": "비교: 흰점줄날도래 머리",
+  "sourcePage": 42
+ },
+ {
+  "file": "A11_extra_sternum.png",
+  "speciesId": "A11",
+  "name": "줄날도래",
+  "slot": "extra_sternum",
+  "level": null,
+  "desc": "가슴배판 경판",
+  "sourcePage": 42
+ },
+ {
+  "file": "A12_lv5.png",
+  "speciesId": "A12",
+  "name": "광택날도래",
+  "slot": "lv5",
+  "level": 5,
+  "desc": "모래·자갈로 지은 집",
+  "sourcePage": 43
+ },
+ {
+  "file": "A12_lv8.png",
+  "speciesId": "A12",
+  "name": "광택날도래",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림",
+  "sourcePage": 43
+ },
+ {
+  "file": "A12_extra_case2.png",
+  "speciesId": "A12",
+  "name": "광택날도래",
+  "slot": "extra_case2",
+  "level": null,
+  "desc": "자갈 집",
+  "sourcePage": 43
+ },
+ {
+  "file": "A13_lv6.png",
+  "speciesId": "A13",
+  "name": "수염치레날도래",
+  "slot": "lv6",
+  "level": 6,
+  "desc": "머리 세로줄 3개",
+  "sourcePage": 44
+ },
+ {
+  "file": "A13_lv8.png",
+  "speciesId": "A13",
+  "name": "수염치레날도래",
+  "slot": "lv8",
+  "level": 8,
+  "desc": "도감 그림(원통형 집)",
+  "sourcePage": 44
+ }
+]
